@@ -1,0 +1,6 @@
+OrderID,OrderDate,Region,Category,Sub-Category,Sales,Profit,CustomerName
+1001,2023-01-05,East,Technology,Phones,1200,200,John Smith
+1002,2023-01-07,West,Furniture,Chairs,450,50,Mary Johnson
+1003,2023-01-10,Central,Office,Paper,200,40,David Lee
+1004,2023-01-12,East,Technology,Laptops,2500,500,Susan Brown
+1005,2023-01-15,South,Furniture,Tables,800,120,Michael Davis
